@@ -1,6 +1,7 @@
 {
   "name": "quotation-vite",
   "private": true,
+  "homepage": "https://lathiri17.github.io/midterm-quotation-app",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
